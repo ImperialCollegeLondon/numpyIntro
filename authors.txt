@@ -1,3 +1,6 @@
+This work builds on a lecture by the Archer team: http://www.archer.ac.uk/training/courses/2015/11/SciPy_Imp/index.php
+
+List of authors:
 Nicolas Barral, 
 Neelofer Bangawala, 
 Arno Proeme, 
